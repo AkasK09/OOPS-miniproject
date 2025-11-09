@@ -1,4 +1,4 @@
-# 🏥 Patient Appointment Reminder System
+# 🏥 Document Management System
 
 A comprehensive Java-based mini project that manages patient appointments and sends automated reminders. This system demonstrates all core Java concepts from 5 units including OOP, Exception Handling, Generics, Multithreading, Networking, JDBC, and GUI programming.
 
